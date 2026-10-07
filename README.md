@@ -77,6 +77,7 @@ Excel was used for:
 ---
 
 ## 📈 Power BI Dashboard
+![Power BI Dashboard](Music_Festival_PowerBI_Dashboard.png)
 
 Power BI was used to transform the cleaned data into an interactive dashboard.
 
