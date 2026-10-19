@@ -1,4 +1,18 @@
-# Music Festival Analysis — Excel + Power BI
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:F59E0B&height=230&section=header&text=Music%20Festival%20Analysis&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Excel%20%2B%20Power%20BI%20%7C%20Data%20Analytics%20Project&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Music Festival Analysis"/>
+
+### 🎵 Turning Festival Data into Business Insights
+
+![Excel](https://img.shields.io/badge/Excel-166534?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-F59E0B?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
 
 ## 📌 Project Overview
 
@@ -155,8 +169,25 @@ This repository contains:
 
 ---
 
-## 👤 Project By
 
-**Akash Das**
+---
 
-Data Analyst | Excel | Power BI | SQL | Python
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:F59E0B&height=160&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=26&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Thank You for Visiting"/>
+
+<p><strong>🎶 Thanks for exploring this project!</strong></p>
+
+<p>
+  <a href="https://github.com/akhubdev">
+    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akashdastech">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p><strong>Made with ❤️ by Akash Das</strong></p>
+
+</div>
+
